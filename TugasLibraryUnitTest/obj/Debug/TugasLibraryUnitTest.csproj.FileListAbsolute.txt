@@ -1,0 +1,11 @@
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.dll
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\bin\Debug\TugasLibraryUnitTest.pdb
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\bin\Debug\nunit.framework.dll
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\bin\Debug\TugasLibrary.dll
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\bin\Debug\TugasLibrary.pdb
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\bin\Debug\nunit.framework.xml
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.dll
+D:\amikom 2\pl\Tugas5\TugasLibraryUnitTest\obj\Debug\TugasLibraryUnitTest.pdb
